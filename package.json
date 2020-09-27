@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cowsay": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
