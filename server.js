@@ -4,6 +4,7 @@ const port = process.env.PORT || 3000
 
 // app.use(express.static('public'))
 // made some changes in this branch
+// Added comment in dev branch
 app.get('/', (req, res) => {
     res.send('<h1>Hello from server</h>')
 
